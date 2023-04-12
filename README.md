@@ -1,2 +1,4 @@
 # MIPS-Assembly
-Repository for code in MIPS Assembly Language
+## Author: Rohan Singh
+
+Repository for code in MIPS Assembly Language.
